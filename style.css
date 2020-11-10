@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+th{
+    background-color: whitesmoke;
+    height: 5px;
+    margin-left: 30px;
+    padding-left: 20px;
+}
+
+dialog{
+    margin-left: 850px;
+    margin-top: -10px;
+}
+
+footer.principal{
+    font-size: 15px;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: black;
+    text-shadow: 2px 2px 0px rgba(150, 150, 150, 0.59);
+}
